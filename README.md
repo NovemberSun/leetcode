@@ -1,1 +1,2 @@
 # leetcode
+learn to use
